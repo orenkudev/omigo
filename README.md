@@ -11,7 +11,7 @@
 ## Building
 Omigo consists of two parts: the server, which establishes and control the connections between peers, and the client, the front-end user interface.
 
-#### Building the client
+#### This is Building the client
 
 ```sh
 $ npm install -g gulp
